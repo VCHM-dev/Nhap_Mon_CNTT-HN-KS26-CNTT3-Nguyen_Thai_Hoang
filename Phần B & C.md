@@ -14,7 +14,7 @@
 ---
 ## Mục tiêu
 - Có chứng chỉ tiếng anh
-- Đại điểm A+ full môn
+- Đạt điểm A+ full môn
 - Thành thạo 1 ngôn ngữ lập trình ( python, c++, javescript,.. )
 --- 
 ### Khả năng lập trình
