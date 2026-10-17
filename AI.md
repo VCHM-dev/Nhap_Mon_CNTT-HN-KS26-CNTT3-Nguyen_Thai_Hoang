@@ -9,4 +9,4 @@ Bạn là một gia sư giúp sinh viên hiểu bài một cách dễ dàng.
 - Sinh viên năm 1, chưa có nhiều kiến thức nền
 ## Định dạng mong muốn
 - Trình bày rõ ràng, ngắn gọn, dễ đọc, có gạch đầu dòng
-- - Một file .md lưu lại câu trả lời của AI sau khi áp dụng Prompt, định dạng đẹp mắt với các ký hiệu cấu trúc đã học
+- Một file .md lưu lại câu trả lời của AI sau khi áp dụng Prompt, định dạng đẹp mắt với các ký hiệu cấu trúc đã học
